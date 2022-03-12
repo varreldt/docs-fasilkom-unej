@@ -16,3 +16,11 @@
   - [Kegiatan Mahasiswa](kegiatan-mahasiswa.md)
   - [Prestasi Mahasiswa](prestasi-mahasiswa.md)
   - [Kontak](kontak.md)
+
+- Views
+  - [Akademik](views/akademik.md)
+  - [Penelitian](views/penelitian.md)
+  - [Kemahasiswaan](views/kemahasiswaan.md)
+  - [Berita](views/berita.md)
+  - [Alumni](views/alumni.md)
+  - [Kontak](views/kontak.md)
