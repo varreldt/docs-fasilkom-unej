@@ -4,4 +4,4 @@
 
 ## Penelitian Mahasiswa
 
-![Penelitian Mahasiswa](../_images/penelitian/penelitian-mahasiswa.png "Penelitian Mahasiswa")
+![Penelitian Mahasiswa](../_images/penelitian/view-penelitian-mahasiswa.png "Penelitian Mahasiswa")

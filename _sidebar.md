@@ -11,7 +11,7 @@
   - [Alumni](alumni.md)
   - [Jadwal Perkuliahan](jadwal-perkuliahan.md)
   - [Kurikulum](kurikulum.md)
-  - [Dosen dan Staf](dosen-dan-staf.md)
+  - [Staf dan Dosen](staf-dan-dosen.md)
   - [Penelitian Mahasiswa](penelitian-mahasiswa.md)
   - [Kegiatan Mahasiswa](kegiatan-mahasiswa.md)
   - [Prestasi Mahasiswa](prestasi-mahasiswa.md)

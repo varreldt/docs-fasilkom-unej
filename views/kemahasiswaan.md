@@ -1,10 +1,10 @@
 ## Kegiatan Mahasiswa
 
-![Kegiatan Mahasiswa](../_images/kemahasiswaan/kegiatan-mahasiswa.png "Kegiatan Mahasiswa")
+![Kegiatan Mahasiswa](../_images/kemahasiswaan/view-kegiatan-mahasiswa.png "Kegiatan Mahasiswa")
 
 ## Prestasi Mahasiswa
 
-![Prestasi Mahasiswa](../_images/kemahasiswaan/prestasi-mahasiswa.png "Prestasi Mahasiswa")
+![Prestasi Mahasiswa](../_images/kemahasiswaan/view-prestasi-mahasiswa.png "Prestasi Mahasiswa")
 
 ## Kegiatan Non Akademik
 

@@ -4,7 +4,7 @@
 
 ## Jadwal Perkuliahan
 
-![Jadwal Perkuliahan](../_images/akademik/jadwal-perkuliahan.png "Jadwal Perkuliahan")
+![Jadwal Perkuliahan](../_images/akademik/view-jadwal-perkuliahan.png "Jadwal Perkuliahan")
 
 ## Kurikulum
 
@@ -12,4 +12,4 @@
 
 ## Staf dan Dosen
 
-![Staf dan Dosen](../_images/akademik/staff-dan-dosen.png "Staf dan Dosen")
+![Staf dan Dosen](../_images/akademik/view-staf-dan-dosen.png "Staf dan Dosen")

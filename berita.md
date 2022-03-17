@@ -30,7 +30,7 @@ Kemudian ubah `Layout` seperti gambar dibawah.
 
 Dan Terakhir isi `Sidebar` menjadi `Blog Listing`.
 
-Terakhir jika sudah tidak ada yang ingin dirubah bisa langsung klik `Publish`.
+Terakhir jika sudah selesai bisa langsung klik `Publish`.
 
 ![Berita 4](_images/berita/berita-4.png "Berita 4")
 
